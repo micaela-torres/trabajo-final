@@ -1,0 +1,34 @@
+body {
+    font-family: 'Domine', serif;
+    background-image: url(../imagenes/fondo.png);
+}
+
+h1 {
+    font: 700;
+    text-align: center;
+    color: #d97336;
+}
+
+.carrito {
+    text-align: center;
+    text-align: start;
+}
+
+.tarjetadeproductos {
+    margin-bottom: 10px;
+}
+
+.marcaproducto {
+    align-items: flex-end;
+}
+
+h2 {
+    font: 400;
+    margin-top: 3rem;
+    text-align: center;
+    color: #36b1a4;
+}
+
+h3 {
+    color: #c568af;
+}

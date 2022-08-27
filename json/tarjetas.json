@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "visa",
+        "tarjeta": "Tarjeta Visa",
+        "unacuota": 1.75,
+        "trescuota": 4.12,
+        "seiscuota": 7.28,
+        "docecuota": 15.10
+    },
+    {
+        "nombre": "mastercard",
+        "tarjeta": "Tarjeta Mastercard",
+        "unacuota": 2.80,
+        "trescuota": 4.96,
+        "seiscuota": 8.30,
+        "docecuota": 16.20
+    },
+    {
+        "nombre": "american",
+        "tarjeta": "Tarjeta American Express",
+        "unacuota": 3.10,
+        "trescuota": 5.15,
+        "seiscuota": 9.12,
+        "docecuota": 18.30
+    }
+]
